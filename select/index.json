@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Step by Step",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:00:02.150464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/01_Step_By_Step_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Step by Step (feat. Panda Bear)",
+      "artist": "Braxe + Falcon",
+      "has_synced": false,
+      "path": "select/02_Step_by_Step_(feat._Panda_Bear)_Braxe_+_Falcon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Step By Step (feat. Panda Bear)",
+      "artist": "Braxe & Falcon",
+      "has_synced": false,
+      "path": "select/03_Step_By_Step_(feat._Panda_Bear)_Braxe_&_Falcon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Off",
+      "has_synced": false,
+      "path": "select/04_Step_By_Step_Off.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Step By Step (Core Mix)",
+      "artist": "Off",
+      "has_synced": false,
+      "path": "select/05_Step_By_Step_(Core_Mix)_Off.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Club Nouveau",
+      "has_synced": true,
+      "path": "select/06_Step_By_Step_Club_Nouveau.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Step by Step",
+      "artist": "Annie Lennox",
+      "has_synced": false,
+      "path": "select/07_Step_by_Step_Annie_Lennox.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Step by Step",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/08_Step_by_Step_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Step by Step - Remix",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/09_Step_by_Step_-_Remix_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/10_Step_By_Step_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Club Nouveau / Step By Step",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/11_Club_Nouveau___Step_By_Step_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "The Alan Parsons Project",
+      "has_synced": false,
+      "path": "select/12_Step_By_Step_The_Alan_Parsons_Project.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Step by Step",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/13_Step_by_Step_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/14_Step_By_Step_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Step By Step (Amazon Original)",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/15_Step_By_Step_(Amazon_Original)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Step By Step (Junior Vasquez Mix)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/16_Step_By_Step_(Junior_Vasquez_Mix)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Step by Step",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Step_by_Step_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
